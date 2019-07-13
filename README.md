@@ -1,5 +1,7 @@
 ## node-jslint
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/PatOnTheBack/node-jslint.svg)](https://greenkeeper.io/)
+
 Easily use [JSLint][] from the command line.
 
       jslint bin/jslint.js
